@@ -1,0 +1,17 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+
+#Eclipse specific files
+
+.metadata
+.settings/
+/target
+.classpath
+.project
+
